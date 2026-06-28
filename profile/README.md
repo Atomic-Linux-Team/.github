@@ -23,7 +23,7 @@
 
 <h2 align="center">Sobre nosotros👋</h2>
 
-Buscando crear un ecosistema amigable y completo para los desarrolladores. Nuestro objetivo es automatizar y pulir la experiencia de usuario combinando el rendimiento de **Arch Linux** con la fluidez visual de **Hyprland**.
+Buscando crear un ecosistema amigable y completo para los desarrolladores. Nuestro objetivo es automatizar y pulir la experiencia de usuario combinando el rendimiento de **Arch Linux** con la fluidez visual de **Hyprland**, junto a la red de seguridad que ofrece el sistema de ficheros **BTRFS** más **TimeShift**, conviritendo tu sistema en una caja de arena completa a interectiva.
 
 ---
 
