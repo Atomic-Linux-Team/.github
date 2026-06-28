@@ -51,7 +51,7 @@ Para hacer tu primera commit, deves seguir los sigueientes pasos:
 
 * _Saber lo minimo sobre algguno de siguientes lenguajes: C, Rust, QML, Lua y Go o saber hacer un buen uso de la IA, pero ojo,  no abuses, así nos aseguramos de que el desarrollo sea seguro y accesible para todos_
 
-* _Tener el visto bueno de alguno de los 2 administradores de laorganización_
+* _Tener el visto bueno de alguno de los 2 administradores de la organización_
 
 * _Una vez que hagas la Commit, los efectos de esta se van a poner a prueba y si la pasa, entra en la rama MainStream oficial del proyecto_
 
