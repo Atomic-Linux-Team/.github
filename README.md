@@ -10,11 +10,11 @@
 
 | 📜 Licencias del Ecosistema | 🚀 Infraestructura | 👥 Comunidad |
 | :---: | :---: | :---: |
-| <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/GPLv3-f38ba8?style=flat-square" alt="GPLv3" /></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/MIT-f5e0dc?style=flat-square&logoColor=black" alt="MIT" /></a> <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/AGPLv3-eed49f?style=flat-square" alt="AGPLv3" /></a> | <img src="https://img.shields.io/badge/Arch%20Linux-89b4fa?style=flat-square&logo=arch-linux" alt="Arch" /> <img src="https://img.shields.io/badge/Hyprland-26a69a?style=flat-square&logo=wayland" alt="Hyprland" /> | <img src="https://img.shields.io/badge/repositorios-4-cba6f7?style=flat-square" alt="Repositorios" /> <img src="https://img.shields.io/badge/miembros-3-f9e2af?style=flat-square" alt="Miembros" /> |
+| <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/GPLv3-f38ba8?style=flat-square" alt="GPLv3" /></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/MIT-f5e0dc?style=flat-square&logoColor=black" alt="MIT" /></a> <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/AGPLv3-eed49f?style=flat-square" alt="AGPLv3" /></a> | <img src="https://img.shields.io/badge/Arch%20Linux-89b4fa?style=flat-square&logo=arch-linux" alt="Arch" /> <img src="https://img.shields.io/badge/Hyprland-26a69a?style=flat-square&logo=wayland" alt="Hyprland" /> | <img src="https://img.shields.io/badge/repositorios-5-cba6f7?style=flat-square" alt="Repositorios" /> <img src="https://img.shields.io/badge/miembros-4-f9e2af?style=flat-square" alt="Miembros" /> |
 
 <br />
 
-[![Patreon](https://img.shields.io/badge/Patreon-Apóyame-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/cw/Atomic_Cathedral)
+[![Patreon](https://img.shields.io/badge/Patreon-Apóyanos!-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/cw/Atomic_Cathedral)
 [![Discord](https://img.shields.io/badge/Discord-Nuestro_Servidor_De_Discord!-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/sXP7zAhPy)
 
 </div>
